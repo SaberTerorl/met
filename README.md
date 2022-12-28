@@ -6,7 +6,7 @@
 
     "text": "برای نصب دانلود جدید ترین نسخه همین الان از طریق دکمه اقدام کنید ",
 
-    "update": true,
+    "update": false,
 
     "link": "https://rubika.ir/Buy__follower",
 
